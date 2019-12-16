@@ -1,5 +1,6 @@
 # BERT_on_SQuAD
 ECE 590-13 Natural Language Processing Final Project   
+By Yuqin Shen @ Duke University. Advisor: Patrick Wang.
 ### Environment Set Up   
 - Python modules
 BERT only requires tensorflow module. You should have installed version that is equal or greater than 1.11.0.
