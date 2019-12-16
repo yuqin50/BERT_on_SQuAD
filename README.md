@@ -2,7 +2,7 @@
 #### ECE 590-13 Natural Language Processing Final Project   
 By Yuqin Shen @ Duke University. Advisor: Patrick Wang.
 ## Environment Set Up   
-- Python modules
+### Python modules   
 BERT only requires tensorflow module. You should have installed version that is equal or greater than 1.11.0.
 ```python
 tensorflow >= 1.11.0   # CPU Version of TensorFlow.    
